@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="DemoXamarinSQLite.EditPage">
+
+
+
+    <ScrollView>
+        <StackLayout Spacing="10">
+            <Label 
+                  Text="Edit Employee"
+                  Font="24"
+                  HorizontalOptions="Center"
+                  VerticalOptions="Center"
+                  FontAttributes="Bold">
+            </Label>
+            <Entry 
+                  x:Name="namesEntry"
+                  Placeholder="Names">
+            </Entry>
+            <Entry
+                  x:Name="lastnamesEntry"
+                  Placeholder="Lastnames">
+            </Entry>
+            <Entry
+                  x:Name="salaryEntry"
+                  Placeholder="Salary">
+            </Entry>
+
+            <StackLayout Orientation="Horizontal">
+                <Label 
+                    Text="Fecha de Contratación"
+                    VerticalOptions="Center">
+                </Label>
+                <DatePicker 
+                    x:Name="contractDatePicker">
+                </DatePicker>
+                <Label 
+                    Text="Status:"
+                    VerticalOptions="Center">
+                </Label>
+                <Switch
+                    x:Name="activeSwitch"
+                    VerticalOptions="Center"
+                    IsToggled="True">
+                </Switch>
+            </StackLayout>
+
+            <StackLayout Orientation="Horizontal">
+                <Button 
+                    x:Name="refreshButton"
+                    Text="Refresh"
+                    BackgroundColor="Teal"
+                    TextColor="White"
+                    HorizontalOptions="FillAndExpand"
+                    VerticalOptions="Center">
+                </Button>
+                <Button
+                    x:Name="deleteButton"
+                    Text="Delete"
+                    BackgroundColor="Red"
+                    TextColor="White"
+                    HorizontalOptions="FillAndExpand"
+                    VerticalOptions="Center">
+                </Button>
+            </StackLayout>
+
+
+
+
+
+
+        </StackLayout>
+
+
+    </ScrollView>
+</ContentPage>

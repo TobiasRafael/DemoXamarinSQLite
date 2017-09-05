@@ -1,0 +1,17 @@
+C:\Users\tobia\Source\Repos\DemoXamarinSQLite\DemoXamarinSQLite\DemoXamarinSQLite\bin\Debug\DemoXamarinSQLite.dll
+C:\Users\tobia\Source\Repos\DemoXamarinSQLite\DemoXamarinSQLite\DemoXamarinSQLite\bin\Debug\DemoXamarinSQLite.pdb
+C:\Users\tobia\Source\Repos\DemoXamarinSQLite\DemoXamarinSQLite\DemoXamarinSQLite\bin\Debug\SQLite.Net.dll
+C:\Users\tobia\Source\Repos\DemoXamarinSQLite\DemoXamarinSQLite\DemoXamarinSQLite\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\tobia\Source\Repos\DemoXamarinSQLite\DemoXamarinSQLite\DemoXamarinSQLite\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\tobia\Source\Repos\DemoXamarinSQLite\DemoXamarinSQLite\DemoXamarinSQLite\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\tobia\Source\Repos\DemoXamarinSQLite\DemoXamarinSQLite\DemoXamarinSQLite\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\tobia\Source\Repos\DemoXamarinSQLite\DemoXamarinSQLite\DemoXamarinSQLite\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\tobia\Source\Repos\DemoXamarinSQLite\DemoXamarinSQLite\DemoXamarinSQLite\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\tobia\Source\Repos\DemoXamarinSQLite\DemoXamarinSQLite\DemoXamarinSQLite\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\tobia\Source\Repos\DemoXamarinSQLite\DemoXamarinSQLite\DemoXamarinSQLite\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\tobia\Source\Repos\DemoXamarinSQLite\DemoXamarinSQLite\DemoXamarinSQLite\obj\Debug\DemoXamarinSQLite.csprojResolveAssemblyReference.cache
+C:\Users\tobia\Source\Repos\DemoXamarinSQLite\DemoXamarinSQLite\DemoXamarinSQLite\obj\Debug\DemoXamarinSQLite.MainPage.xaml.g.cs
+C:\Users\tobia\Source\Repos\DemoXamarinSQLite\DemoXamarinSQLite\DemoXamarinSQLite\obj\Debug\DemoXamarinSQLite.App.xaml.g.cs
+C:\Users\tobia\Source\Repos\DemoXamarinSQLite\DemoXamarinSQLite\DemoXamarinSQLite\obj\Debug\DemoXamarinSQLite.dll
+C:\Users\tobia\Source\Repos\DemoXamarinSQLite\DemoXamarinSQLite\DemoXamarinSQLite\obj\Debug\DemoXamarinSQLite.pdb
+C:\Users\tobia\Source\Repos\DemoXamarinSQLite\DemoXamarinSQLite\DemoXamarinSQLite\obj\Debug\DemoXamarinSQLite.EditPage.xaml.g.cs
